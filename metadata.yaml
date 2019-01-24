@@ -1,0 +1,52 @@
+_repo: Holcomb-Fitz-and-Peate-Three-19th-Century-American-Telescope-Makers_58747
+_version: 0.0.1
+alternative_title: 'Holcomb, Fitz, and Peate: Three Nineteenth Century American Telescope
+  Makers'
+contributor:
+  author_of_introduction:
+    agent_name: Multhauf, Robert P.
+    birthdate: 1919
+    deathdate: 2004
+    gutenberg_agent_id: '34963'
+    url: http://www.gutenberg.org/2009/agents/34963
+    wikipedia: https://en.wikipedia.org/wiki/Robert_P._Multhauf
+  contributors:
+  - agent_name: Holcomb, Amasa
+    birthdate: 1787
+    deathdate: 1875
+    gutenberg_agent_id: '50130'
+    url: http://www.gutenberg.org/2009/agents/50130
+    wikipedia: https://en.wikipedia.org/wiki/Amasa_Holcomb
+  - agent_name: Preston, Frank W.
+    alias: Preston, F. W.
+    birthdate: 1896
+    deathdate: 1989
+    gutenberg_agent_id: '50132'
+    url: http://www.gutenberg.org/2009/agents/50132
+    wikipedia: https://en.wikipedia.org/wiki/Frank_W._Preston
+  - agent_name: McGrath, William J., Jr.
+    gutenberg_agent_id: '50133'
+    url: http://www.gutenberg.org/2009/agents/50133
+  - agent_name: Howell, Julia Fitz
+    gutenberg_agent_id: '50131'
+    url: http://www.gutenberg.org/2009/agents/50131
+description: ''
+gutenberg_issued: '2019-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Holcomb, Amasa, 1787-1875'
+- !lcsh 'Peate, John, 1820-1903'
+- !lcsh 'Fitz, Henry, 1808-1863'
+- !lcc 'QB'
+- GITenberg
+tableOfContents: Introduction, by R. P. Multhauf -- Amasa Holcomb, autobiographical
+  sketch -- Henry Fitz, by J. F. Howell -- John Peate, by F. W. Preston and W. J.
+  McGrath, Jr.
+title: 'Holcomb, Fitz, and Peate: Three 19th Century American Telescope Makers'
+url: http://www.gutenberg.org/ebooks/58747
