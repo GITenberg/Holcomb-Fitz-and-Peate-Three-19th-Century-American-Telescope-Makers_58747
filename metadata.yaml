@@ -1,5 +1,5 @@
 _repo: Holcomb-Fitz-and-Peate-Three-19th-Century-American-Telescope-Makers_58747
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'Holcomb, Fitz, and Peate: Three Nineteenth Century American Telescope
   Makers'
 contributor:
@@ -30,7 +30,12 @@ contributor:
   - agent_name: Howell, Julia Fitz
     gutenberg_agent_id: '50131'
     url: http://www.gutenberg.org/2009/agents/50131
+covers:
+- cover_type: archival
+  image_path: 58747-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58747#Holcomb-Fitz-and-Peate-Three-19th-Century-American-Telescope-Makers
 gutenberg_issued: '2019-01-21'
 gutenberg_type: Text
 identifiers:
